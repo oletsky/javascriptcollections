@@ -1,6 +1,6 @@
 let coll=new Map();
-coll.set("bread",100);
-coll.set("whiskey",20);
+coll.set("bread",1000);
+coll.set("whiskey",200);
 coll.set("water",1000);
 console.log(coll);
 coll.set("water",2000);
